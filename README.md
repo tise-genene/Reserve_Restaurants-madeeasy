@@ -1,1 +1,1 @@
-Restaurant reservation system with many features.
+Laravel-Restaurant-Reservation-System project
